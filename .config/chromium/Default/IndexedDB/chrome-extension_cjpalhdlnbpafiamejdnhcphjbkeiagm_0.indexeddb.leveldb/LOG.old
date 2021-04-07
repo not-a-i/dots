@@ -1,0 +1,8 @@
+2021/04/06-23:17:13.234 1126 Reusing MANIFEST /home/noot/.config/chromium/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/06-23:17:13.234 1126 Recovering log #76
+2021/04/06-23:17:13.234 1126 Reusing old log /home/noot/.config/chromium/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/000076.log 
+2021/04/06-23:17:15.242 11a8 Level-0 table #80: started
+2021/04/06-23:17:15.242 11a8 Level-0 table #80: 0 bytes OK
+2021/04/06-23:17:15.254 11a8 Delete type=0 #76
+2021/04/06-23:17:15.254 11a8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/06-23:17:15.255 11a8 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

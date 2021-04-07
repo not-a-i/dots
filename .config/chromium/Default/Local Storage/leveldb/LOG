@@ -1,0 +1,27 @@
+2021/04/07-11:21:59.213 3 Reusing MANIFEST /home/noot/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2021/04/07-11:21:59.214 3 Recovering log #49
+2021/04/07-11:21:59.216 3 Reusing old log /home/noot/.config/chromium/Default/Local Storage/leveldb/000049.log 
+2021/04/07-11:22:45.276 5 Level-0 table #53: started
+2021/04/07-11:22:45.287 5 Level-0 table #53: 14397 bytes OK
+2021/04/07-11:22:45.300 5 Delete type=0 #49
+2021/04/07-11:31:01.624 3 Level-0 table #55: started
+2021/04/07-11:31:01.642 3 Level-0 table #55: 183757 bytes OK
+2021/04/07-11:31:01.655 3 Delete type=0 #52
+2021/04/07-11:31:01.657 3 Compacting 4@0 + 1@1 files
+2021/04/07-11:31:01.677 3 Generated table #56@0: 20 keys, 179172 bytes
+2021/04/07-11:31:01.677 3 Compacted 4@0 + 1@1 files => 179172 bytes
+2021/04/07-11:31:01.692 3 compacted to: files[ 0 1 0 0 0 0 0 ]
+2021/04/07-11:31:01.695 3 Delete type=2 #55
+2021/04/07-11:31:01.695 3 Delete type=2 #45
+2021/04/07-11:31:01.695 3 Delete type=2 #50
+2021/04/07-11:31:01.695 3 Delete type=2 #48
+2021/04/07-11:31:01.696 3 Delete type=2 #53
+2021/04/07-11:36:01.624 3 Level-0 table #58: started
+2021/04/07-11:36:01.640 3 Level-0 table #58: 178975 bytes OK
+2021/04/07-11:36:01.653 3 Delete type=0 #54
+2021/04/07-12:15:51.073 2d Level-0 table #60: started
+2021/04/07-12:15:51.091 2d Level-0 table #60: 198709 bytes OK
+2021/04/07-12:15:51.104 2d Delete type=0 #57
+2021/04/07-12:16:01.624 1a Level-0 table #62: started
+2021/04/07-12:16:01.645 1a Level-0 table #62: 193266 bytes OK
+2021/04/07-12:16:01.658 1a Delete type=0 #59

@@ -1,0 +1,13 @@
+ 
+New instance of bashtop version: 0.9.25 Pid: 1020
+ 
+New instance of bashtop version: 0.9.25 Pid: 26719
+ 
+New instance of bashtop version: 0.9.25 Pid: 27513
+ 
+New instance of bashtop version: 0.9.25 Pid: 138962
+/usr/bin/bashtop: line 595: echo: write error: Broken pipe
+/usr/bin/bashtop: line 597: echo: write error: Broken pipe
+ 
+New instance of bashtop version: 0.9.25 Pid: 139085
+11:32:09 PM ERROR: On line 4353 

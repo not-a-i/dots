@@ -1,0 +1,24 @@
+2021/04/06-23:17:13.096 11ae Reusing MANIFEST /home/noot/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2021/04/06-23:17:13.096 11ae Recovering log #62
+2021/04/06-23:17:13.116 11ae Level-0 table #65: started
+2021/04/06-23:17:13.179 11ae Level-0 table #65: 2864275 bytes OK
+2021/04/06-23:17:13.196 11ae Delete type=0 #62
+2021/04/06-23:17:13.197 11ae Compacting 4@0 + 2@1 files
+2021/04/06-23:17:13.281 11ae Generated table #67@0: 16 keys, 2725086 bytes
+2021/04/06-23:17:13.332 11ae Generated table #68@0: 6 keys, 2110409 bytes
+2021/04/06-23:17:13.395 11ae Generated table #69@0: 8 keys, 2453756 bytes
+2021/04/06-23:17:13.404 11ae Generated table #70@0: 5 keys, 134597 bytes
+2021/04/06-23:17:13.404 11ae Compacted 4@0 + 2@1 files => 7423848 bytes
+2021/04/06-23:17:13.414 11ae compacted to: files[ 0 4 1 0 0 0 0 ]
+2021/04/07-03:30:17.521 14dd Level-0 table #72: started
+2021/04/07-03:30:17.606 14dd Level-0 table #72: 1915709 bytes OK
+2021/04/07-03:30:17.619 14dd Delete type=2 #55
+2021/04/07-03:30:17.619 14dd Delete type=2 #65
+2021/04/07-03:30:17.619 14dd Delete type=2 #54
+2021/04/07-03:30:17.619 14dd Delete type=2 #57
+2021/04/07-03:30:17.619 14dd Delete type=2 #60
+2021/04/07-03:30:17.619 14dd Delete type=2 #63
+2021/04/07-03:30:17.619 14dd Delete type=0 #66
+2021/04/07-03:37:19.482 14ec Level-0 table #74: started
+2021/04/07-03:37:19.573 14ec Level-0 table #74: 2178984 bytes OK
+2021/04/07-03:37:19.585 14ec Delete type=0 #71

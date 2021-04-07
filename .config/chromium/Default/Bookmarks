@@ -1,0 +1,40 @@
+{
+   "checksum": "d8025a9fa6ef82e03ca7a6257a6ca20a",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13261521826269561",
+            "guid": "76373476-3430-4341-b743-867d29418fe8",
+            "id": "5",
+            "name": "r/unixporn - the home for *NIX customization!",
+            "type": "url",
+            "url": "https://www.reddit.com/r/unixporn/"
+         } ],
+         "date_added": "13261521696729418",
+         "date_modified": "13261521826269561",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13261521696729419",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13261521696729420",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
